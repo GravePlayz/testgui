@@ -1,262 +1,352 @@
-[
-  {
-    "name": "4bed-fa9a-d520",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Image",
-        "color": "0.09 0.1 1 1"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.019 0.092",
-        "anchormax": "0.995 0.925"
-      }
-    ]
-  },
-  {
-    "name": "735f-5eb4-5e6c",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Text",
-        "color": "1 1 1 1",
-        "fontSize": 25,
-        "align": "MiddleCenter"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.022 0.817",
-        "anchormax": "0.383 0.857"
-      }
-    ]
-  },
-  {
-    "name": "24f1-c507-b38e",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Image",
-        "color": "1 1 1 1"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.945 0.838",
-        "anchormax": "0.984 0.907"
-      }
-    ]
-  },
-  {
-    "name": "bd84-dbf9-7a9d",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.RawImage",
-        "color": "1 1 1 1",
-        "url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.949 0.844",
-        "anchormax": "0.98 0.9"
-      }
-    ]
-  },
-  {
-    "name": "9b46-3855-9339",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Text",
-        "color": "1 1 1 1",
-        "fontSize": 25,
-        "align": "MiddleCenter"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.83 0.86",
-        "anchormax": "0.942 0.9"
-      }
-    ]
-  },
-  {
-    "name": "f77a-c65a-297d",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Text",
-        "color": "1 1 1 1",
-        "fontSize": 25,
-        "align": "MiddleCenter"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.022 0.881",
-        "anchormax": "0.188 0.921"
-      }
-    ]
-  },
-  {
-    "name": "6208-84dc-c487",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Image",
-        "color": "1 1 1 1"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.023 0.721",
-        "anchormax": "0.059 0.783"
-      }
-    ]
-  },
-  {
-    "name": "24c4-b2c8-603a",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Image",
-        "color": "1 1 1 1"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.023 0.647",
-        "anchormax": "0.058 0.71"
-      }
-    ]
-  },
-  {
-    "name": "04e4-11de-9eef",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.RawImage",
-        "color": "1 1 1 1",
-        "url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.025 0.65",
-        "anchormax": "0.056 0.706"
-      }
-    ]
-  },
-  {
-    "name": "68ae-9bb7-03ea",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.RawImage",
-        "color": "1 1 1 1",
-        "url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.026 0.725",
-        "anchormax": "0.057 0.781"
-      }
-    ]
-  },
-  {
-    "name": "3f48-d2c3-e3cc",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Text",
-        "color": "1 1 1 1",
-        "fontSize": 25,
-        "align": "MiddleCenter"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.066 0.738",
-        "anchormax": "0.422 0.778"
-      }
-    ]
-  },
-  {
-    "name": "c28a-f554-8cc1",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Text",
-        "color": "1 1 1 1",
-        "fontSize": 25,
-        "align": "MiddleCenter"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.068 0.657",
-        "anchormax": "0.423 0.697"
-      }
-    ]
-  },
-  {
-    "name": "d6b8-b2bf-0c96",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Text",
-        "color": "1 1 1 1",
-        "fontSize": 25,
-        "align": "MiddleCenter"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.359 0.11",
-        "anchormax": "0.677 0.15"
-      }
-    ]
-  },
-  {
-    "name": "cc86-4994-b2b5",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.RawImage",
-        "color": "1 1 1 1",
-        "url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.318 0.099",
-        "anchormax": "0.349 0.154"
-      }
-    ]
-  },
-  {
-    "name": "5c6d-8646-3104",
-    "parent": "Hud",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Button",
-        "command": "",
-        "close": "",
-        "color": "0.31 0.31 0.31 1"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0.913 0.101",
-        "anchormax": "0.991 0.24"
-      }
-    ]
-  },
-  {
-    "name": "a541-05c4-c0ff",
-    "parent": "5c6d-8646-3104",
-    "components": [
-      {
-        "type": "UnityEngine.UI.Text",
-        "color": "1 1 1 1",
-        "fontSize": 20,
-        "align": "MiddleCenter"
-      },
-      {
-        "type": "RectTransform",
-        "anchormin": "0 0",
-        "anchormax": "1 1"
-      }
-    ]
-  }
+[{
+		"name": "BackgroundPanel",
+		"parent": "Hud",
+		"cursorenabled": "true",
+		"components": [{
+				"type": "UnityEngine.UI.Image",
+				"color": "0.09 0.39 1 1"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0 0",
+				"anchormax": "1 1"
+			}
+
+		]
+	},
+	{
+		"name": "DataText",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 25,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.022 0.817",
+				"anchormax": "0.383 0.857"
+			}
+		]
+	},
+	{
+		"name": "PanelClose",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Image",
+				"color": "1 1 1 1"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.945 0.838",
+				"anchormax": "0.984 0.907"
+			}
+		]
+	},
+	{
+		"name": "ImageClose",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.RawImage",
+				"color": "1 1 1 1",
+				"url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.949 0.844",
+				"anchormax": "0.98 0.9"
+			}
+		]
+	},
+	{
+		"name": "TextClose",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 25,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.83 0.86",
+				"anchormax": "0.942 0.9"
+			}
+		]
+	},
+	{
+		"name": "ShopNameText",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 25,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.022 0.881",
+				"anchormax": "0.188 0.921"
+			}
+		]
+	},
+	{
+		"name": "PanelInfo1",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Image",
+				"color": "1 1 1 1"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.023 0.721",
+				"anchormax": "0.059 0.783"
+			}
+		]
+	},
+	{
+		"name": "Panelnfo2",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Image",
+				"color": "1 1 1 1"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.023 0.647",
+				"anchormax": "0.058 0.71"
+			}
+		]
+	},
+	{
+		"name": "PanelImage2",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.RawImage",
+				"color": "1 1 1 1",
+				"url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.025 0.65",
+				"anchormax": "0.056 0.706"
+			}
+		]
+	},
+	{
+		"name": "PanelImage1",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.RawImage",
+				"color": "1 1 1 1",
+				"url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.026 0.725",
+				"anchormax": "0.057 0.781"
+			}
+		]
+	},
+	{
+		"name": "TextInfo1",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 25,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.066 0.738",
+				"anchormax": "0.422 0.778"
+			}
+		]
+	},
+	{
+		"name": "TextInfo2",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 25,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.068 0.657",
+				"anchormax": "0.423 0.697"
+			}
+		]
+	},
+	{
+		"name": "MoneyText",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 25,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.359 0.11",
+				"anchormax": "0.677 0.15"
+			}
+		]
+	},
+	{
+		"name": "MoneyImage1",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.RawImage",
+				"color": "1 1 1 1",
+				"url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.318 0.099",
+				"anchormax": "0.349 0.154"
+			}
+		]
+	},
+	{
+		"name": "MoneyTransfer",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Button",
+				"command": "",
+				"close": "",
+				"color": "0.31 0.31 0.31 1"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.913 0.101",
+				"anchormax": "0.991 0.24"
+			}
+		]
+	},
+	{
+		"name": "a541-05c4-c0ff",
+		"parent": "MoneyTransfer",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 20,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0 0",
+				"anchormax": "1 1"
+			}
+		]
+	},
+	{
+		"name": "TextInfo3",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 25,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.069 0.581",
+				"anchormax": "0.424 0.621"
+			}
+		]
+	},
+	{
+		"name": "PanelInfo3",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Image",
+				"color": "1 1 1 1"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.022 0.568",
+				"anchormax": "0.057 0.631"
+			}
+		]
+	},
+	{
+		"name": "ImageInfo3",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.RawImage",
+				"color": "1 1 1 1",
+				"url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.023 0.571",
+				"anchormax": "0.055 0.626"
+			}
+		]
+	},
+	{
+		"name": "PanelInfo4",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Image",
+				"color": "1 1 1 1"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.022 0.488",
+				"anchormax": "0.057 0.55"
+			}
+		]
+	},
+	{
+		"name": "MoneyImage2",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.RawImage",
+				"color": "1 1 1 1",
+				"url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.685 0.097",
+				"anchormax": "0.716 0.153"
+			}
+		]
+	},
+	{
+		"name": "TextInfo4",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.Text",
+				"color": "1 1 1 1",
+				"fontSize": 25,
+				"align": "MiddleCenter"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.066 0.497",
+				"anchormax": "0.411 0.538"
+			}
+		]
+	},
+	{
+		"name": "ImageInfo4",
+		"parent": "BackgroundPanel",
+		"components": [{
+				"type": "UnityEngine.UI.RawImage",
+				"color": "1 1 1 1",
+				"url": "http://www.rigormortis.be/wp-content/uploads/rust-icon-512.png"
+			},
+			{
+				"type": "RectTransform",
+				"anchormin": "0.023 0.492",
+				"anchormax": "0.055 0.547"
+			}
+		]
+	}
 ]
