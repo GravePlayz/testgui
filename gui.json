@@ -1,11 +1,16 @@
 [{
 		"name": "BackgroundPanel",
 		"parent": "Hud",
-		"cursorenabled": "true",
 		"components": [{
 				"type": "UnityEngine.UI.Image",
 				"color": "0.09 0.39 1 1"
+				"cursorenabled": "true",
 			},
+			{
+				"type": "NeedsCursor",
+				"cursorenabled": "true"
+			},
+				
 			{
 				"type": "RectTransform",
 				"anchormin": "0 0",
