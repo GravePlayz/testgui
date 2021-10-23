@@ -3,8 +3,8 @@
 		"parent": "Hud",
 		"components": [{
 				"type": "UnityEngine.UI.Image",
-				"color": "0.09 0.39 1 1"
-				"cursorenabled": "true",
+				"color": "0.09 0.39 1 1",
+				"cursorenabled": "true"
 			},
 			{
 				"type": "NeedsCursor",
